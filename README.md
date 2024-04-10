@@ -1,1 +1,1 @@
-## **Usar no QT creator**
+## **Usar QT creator**
